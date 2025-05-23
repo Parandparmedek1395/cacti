@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@hyperledger/cactus-common": "2.0.0-rc.7",
-    "@hyperledger/cactus-core": "2.0.0-rc.7",
+    "@hyperledger/cactus-core": "0.2.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.7",
     "@iroha2/client": "4.0.0",
     "@iroha2/crypto-core": "0.1.1",
@@ -62,7 +62,7 @@
     "sanitize-html": "2.12.1",
     "socket.io": "4.6.2",
     "socket.io-client-fixed-types": "4.5.4",
-    "undici": "6.19.8"
+    "undici": "6.21.2"
   },
   "devDependencies": {
     "@hyperledger/cactus-plugin-keychain-memory": "2.0.0-rc.7",

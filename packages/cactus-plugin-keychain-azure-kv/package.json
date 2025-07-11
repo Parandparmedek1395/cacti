@@ -63,8 +63,8 @@
   "dependencies": {
     "@azure/identity": "4.2.1",
     "@azure/keyvault-secrets": "4.3.0",
-    "@hyperledger/cactus-common": "2.0.0-rc.7",
-    "@hyperledger/cactus-core": "2.0.0-rc.7",
+    "@hyperledger/cactus-common": "2.0.0",
+    "@hyperledger/cactus-core": "2.0.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.7",
     "axios": "1.7.7",
     "http-status-codes": "2.1.4",

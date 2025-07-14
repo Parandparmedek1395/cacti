@@ -60,8 +60,8 @@
   },
   "dependencies": {
     "@grpc/grpc-js": "1.11.3",
-    "@hyperledger/cactus-common": "2.0.0-rc.7",
-    "@hyperledger/cactus-core": "2.0.0-rc.7",
+    "@hyperledger/cactus-common": "2.0.0",
+    "@hyperledger/cactus-core": "2.0.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.7",
     "axios": "1.7.7",
     "express": "4.21.0",
